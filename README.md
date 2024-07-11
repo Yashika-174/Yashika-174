@@ -33,9 +33,10 @@ WanderLust is a comprehensive travel and adventure platform that allows users to
   - Interactive map to explore destinations
 
 ## 📫 How to reach me
-- **Email:** [yashikaaggarwal0107@gmail.com](mailto:yashikaaggarwal0107@gmail.com)
-- **LinkedIn:** [Yashika Aggarwal](https://www.linkedin.com/in/yashika-aggarwal-a577a1273)
-- **GitHub:** [Yashika-174](https://github.com/Yashika-174)
+- **Email:** <a href="mailto:yashikaaggarwal0107@gmail.com" target="_blank">yashikaaggarwal0107@gmail.com</a>
+- **LinkedIn:** <a href="https://www.linkedin.com/in/yashika-aggarwal-a577a1273" target="_blank">Yashika Aggarwal</a>
+- **GitHub:** <a href="https://github.com/Yashika-174" target="_blank">Yashika-174</a>
+
 
 ## 🌟 Fun Fact
 I love solving puzzles and am an avid reader of mystery novels. In my free time, I enjoy exploring new technologies and working on personal projects to enhance my skills.
