@@ -47,6 +47,10 @@ WanderLust is a comprehensive travel and adventure platform that allows users to
   - Detailed travel listings with descriptions and images
   - User reviews and ratings
   - Interactive map to explore destinations
+ 
+## 📚 Data Structures and Algorithms in Python
+I have proficiency in Data Structures and Algorithms using Python, which allows me to solve complex computational problems efficiently.
+
 
 ## 📫 How to reach me
 - **Email:** <a href="mailto:yashikaaggarwal0107@gmail.com" target="_blank">yashikaaggarwal0107@gmail.com</a>
