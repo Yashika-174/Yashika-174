@@ -22,7 +22,7 @@ Hi there! I'm Yashika Aggarwal, a passionate web developer dedicated to crafting
 - **Database:** 
   
   - <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"></span> **MongoDB**
-  - 
+    
 - **Other Tools:**
   
   - <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50"> </span>**GitHub**
