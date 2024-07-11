@@ -1,9 +1,11 @@
 # Hi there, I'm Yashika Aggarwal! 👋
 
+
 ## 💫 About Me
 Hi there! I'm Yashika Aggarwal, a passionate web developer dedicated to crafting seamless and efficient web experiences. With a strong focus on the MERN stack (MongoDB, Express, React, Node.js), I thrive on turning innovative ideas into real-world applications. I have great experience with React for building interactive user interfaces, and I'm proficient in using Tailwind CSS for efficient styling and Redux for managing application state. Additionally, I have a solid foundation in C++, Python, and SQL, enabling me to handle diverse programming and database tasks effectively. Whether it's designing robust backend systems, ensuring smooth database interactions, or creating responsive and stylish frontend experiences, I love every aspect of web development. I'm continuously learning and staying up-to-date with the latest trends and technologies to deliver the best solutions possible.
 
 ## 🛠️ Tech Stack
+
 
 - **Frontend:** 
 
@@ -32,6 +34,7 @@ Hi there! I'm Yashika Aggarwal, a passionate web developer dedicated to crafting
   - <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"></span> **Python**
     
   - <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="50" height="50"></span> **SQL**
+
     
 
 ## 🚀 Projects
@@ -48,9 +51,11 @@ WanderLust is a comprehensive travel and adventure platform that allows users to
   - User reviews and ratings
   - Interactive map to explore destinations
 
+
  
 ## 📚 Data Structures and Algorithms in Python
 I have proficiency in Data Structures and Algorithms using Python, which allows me to solve complex computational problems efficiently.
+
 
 
 ## 📫 How to reach me
