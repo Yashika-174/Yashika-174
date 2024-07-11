@@ -52,6 +52,17 @@ WanderLust is a comprehensive travel and adventure platform that allows users to
   - Interactive map to explore destinations
 
 
+## 🌱 Learning Project: Mini React App
+To deepen my understanding of React, I created a mini project showcasing various frontend techniques and components. The project includes:
+- **Features:**
+  - Interactive user interface with dynamic content rendering
+  - Component-based architecture for modularity and reusability
+  - Integration of state management for handling application data
+  - Responsive design using CSS and React libraries
+
+Explore the project: [Mini React App](https://mini-react-cj8hwvy1z-yashika-aggarwals-projects-f8de624c.vercel.app/)
+
+
  
 ## 📚 Data Structures and Algorithms in Python
 I have proficiency in Data Structures and Algorithms using Python, which allows me to solve complex computational problems efficiently.
