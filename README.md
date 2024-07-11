@@ -9,12 +9,11 @@ Hi there! I'm Yashika Aggarwal, a passionate web developer dedicated to crafting
   - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="50" height="50"> Tailwind CSS
   - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="50" height="50"> Redux
 - **Backend:** 
-  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"> Node.js
+  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" alt="Node.js" width="50" height="50"> Node.js
   - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="50" height="50"> Express
 - **Database:** 
   - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"> MongoDB
 - **Other Tools:**
-  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"> Git
   - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50"> GitHub
   - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"> C++
   - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"> Python
@@ -32,10 +31,6 @@ WanderLust is a comprehensive travel and adventure platform that allows users to
   - Detailed travel listings with descriptions and images
   - User reviews and ratings
   - Interactive map to explore destinations
-
-## 📊 GitHub Stats
-![Yashika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yashika-174&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashika-174&layout=compact&theme=radical)
 
 ## 📫 How to reach me
 - **Email:** [yashikaaggarwal0107@gmail.com](mailto:yashikaaggarwal0107@gmail.com)
