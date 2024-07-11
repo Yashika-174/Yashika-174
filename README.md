@@ -8,21 +8,31 @@ Hi there! I'm Yashika Aggarwal, a passionate web developer dedicated to crafting
 - **Frontend:** 
 
   - <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50"></span> **React**
+  - 
   - <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="50" height="50"> </span>**Tailwind CSS**
+  - 
   - <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="50" height="50"></span> **Redux**
+  - 
 - **Backend:** 
   
   - <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"></span> **Node.js**
+  - 
   - <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="50" height="50"></span> **Express**
+  - 
 - **Database:** 
   
   - <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"></span> **MongoDB**
+  - 
 - **Other Tools:**
   
   - <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50"> </span>**GitHub**
+  - 
   - <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"></span> **C++**
+  - 
   - <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"></span> **Python**
+  - 
   - <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="50" height="50"></span> **SQL**
+  - 
 
 ## 🚀 Projects
 
@@ -39,9 +49,9 @@ WanderLust is a comprehensive travel and adventure platform that allows users to
   - Interactive map to explore destinations
 
 ## 📫 How to reach me
-- **Email:** [yashikaaggarwal0107@gmail.com](mailto:yashikaaggarwal0107@gmail.com){:target="_blank"}
-- **LinkedIn:** [Yashika Aggarwal](https://www.linkedin.com/in/yashika-aggarwal-a577a1273){:target="_blank"}
-- **GitHub:** [Yashika-174](https://github.com/Yashika-174){:target="_blank"}
+- **Email:** <a href="mailto:yashikaaggarwal0107@gmail.com" target="_blank">yashikaaggarwal0107@gmail.com</a>
+- **LinkedIn:** <a href="https://www.linkedin.com/in/yashika-aggarwal-a577a1273" target="_blank">Yashika Aggarwal</a>
+- **GitHub:** <a href="https://github.com/Yashika-174" target="_blank">Yashika-174</a>
 
 
 ## 🌟 Fun Fact
