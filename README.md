@@ -4,28 +4,28 @@
 Hi there! I'm Yashika Aggarwal, a passionate web developer dedicated to crafting seamless and efficient web experiences. With a strong focus on the MERN stack (MongoDB, Express, React, Node.js), I thrive on turning innovative ideas into real-world applications. I have great experience with React for building interactive user interfaces, and I'm proficient in using Tailwind CSS for efficient styling and Redux for managing application state. Additionally, I have a solid foundation in C++, Python, and SQL, enabling me to handle diverse programming and database tasks effectively. Whether it's designing robust backend systems, ensuring smooth database interactions, or creating responsive and stylish frontend experiences, I love every aspect of web development. I'm continuously learning and staying up-to-date with the latest trends and technologies to deliver the best solutions possible.
 
 ## 🛠️ Tech Stack
-<br>
+
 - **Frontend:** 
-<br>
+
   - <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50"></span> **React**
   - <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="50" height="50"> </span>**Tailwind CSS**
   - <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="50" height="50"></span> **Redux**
 - **Backend:** 
-<br>
+  
   - <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"></span> **Node.js**
   - <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="50" height="50"></span> **Express**
 - **Database:** 
-<br>
+  
   - <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"></span> **MongoDB**
 - **Other Tools:**
-<br>
+  
   - <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50"> </span>**GitHub**
   - <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"></span> **C++**
   - <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"></span> **Python**
   - <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="50" height="50"></span> **SQL**
 
 ## 🚀 Projects
-<br>
+
 ### [WanderLust](https://wanderlust-project-main.onrender.com/listings)
 WanderLust is a comprehensive travel and adventure platform that allows users to explore, plan, and book their dream vacations. The project leverages the full power of the MERN stack to deliver a seamless user experience, featuring dynamic listings, user reviews, and interactive maps.
 
