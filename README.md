@@ -4,7 +4,7 @@
 
 I'm a passionate and results-driven web developer with a strong foundation in the **MERN stack (MongoDB, Express.js, React, Node.js)**. I specialize in building seamless and scalable web applications that deliver great user experiences. My expertise includes developing interactive UIs with React, styling efficiently using Tailwind CSS, and managing application state with Redux.
 
-Alongside my web development skills, I have solid experience in **C++, Python, and SQL**, which allows me to handle diverse technical tasks — from algorithmic problem-solving to backend database management. I'm always eager to explore new technologies and refine my skills by working on real-world projects.
+Alongside my web development skills, I have solid experience in **C++, Python, SQL**, and **Docker**, which allows me to handle diverse technical tasks — from algorithmic problem-solving to scalable backend deployment. I'm always eager to explore new technologies and refine my skills by working on real-world projects.
 
 ---
 
@@ -23,6 +23,7 @@ Alongside my web development skills, I have solid experience in **C++, Python, a
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 ### ⚙️ Tools & Languages
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -58,26 +59,27 @@ A learning-focused mini project showcasing core frontend concepts using React.
 ---
 
 ### 🔗 [Master Backend with Express.js](https://github.com/Yashika-174/Master_backend_with_expressjs)
-A production-ready backend system built with Node.js, Express.js, and PostgreSQL using Prisma ORM.
+A production-grade backend system built with Node.js, Express.js, PostgreSQL, and Prisma ORM — deployed using Docker.
 
 - **Features:**
-  - User authentication with JWT & bcrypt
-  - File upload with validation
-  - Background email queues using BullMQ & Redis
-  - Custom error handling for clean API responses
-  - Follows modular and scalable architecture
+  - JWT authentication & secure password hashing with bcrypt
+  - File upload with validation and MIME-type filtering
+  - Background job queues with Redis + BullMQ
+  - Nodemailer-based email sending
+  - Fully modular codebase with environment-based configuration
+  - **Dockerized for containerized deployment**
 
 ---
 
 ### 🔗 [WebRTC Peer Communication Demo](https://github.com/Yashika-174/WebRTC)
-A real-time audio/video calling demo using WebRTC and media negotiation concepts.
+A real-time audio/video communication demo using WebRTC's core media negotiation concepts.
 
 - **Key Concepts Implemented:**
-  - Media stream negotiation using `addTrack()`
-  - Bi-directional audio/video communication
+  - Local track handling using `addTrack()`
+  - Bi-directional media stream communication
   - Codec and ICE candidate negotiation
-  - Manual signaling flow (can be integrated with WebSocket/Firebase)
-  - Focus on WebRTC fundamentals, ideal for learning
+  - Manual signaling logic with potential WebSocket integration
+  - Clean educational structure, ideal for WebRTC fundamentals
 
 ---
 
